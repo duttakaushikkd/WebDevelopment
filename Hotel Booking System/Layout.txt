@@ -1,0 +1,4 @@
+Home page(index.html)
+Booking -> room_booking.html
+Things to explore -> explore.html
+Amusement park -> amuse.html

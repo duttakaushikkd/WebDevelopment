@@ -1,0 +1,39 @@
+#fname
+{
+    border-color: brown;
+    
+}
+#lname
+{
+    border-color: brown;
+    
+}
+#contact
+{
+    border-color: brown;
+    
+}
+
+#mail
+{
+    border-color: brown;
+}
+#mainhead
+{
+    color:brown;
+    border-color:seashell;
+   
+}
+#dt
+{
+    border-color: brown; 
+}
+
+body
+{
+    background-image: url("https://img.etimg.com/thumb/msid-79732419,width-650,imgsize-1548694,,resizemode-4,quality-100/tandem-skydiving-at-skydive-dubai-palm-dropzone.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

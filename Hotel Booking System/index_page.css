@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-image: url("https://www.thestreet.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY4NjM4OTY4NjkyNzQ2MTM1/best-amusement-parks-in-the-world.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#hname{
+    text-align: center;
+    background-color: brown;
+}
+
+footer
+{
+    
+    background-color: brown;
+}
+a
+{
+    background-color: cornsilk;  
+}

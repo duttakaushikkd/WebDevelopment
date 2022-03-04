@@ -1,0 +1,39 @@
+#fname
+{
+    border-color: brown;
+    
+}
+#lname
+{
+    border-color: brown;
+    
+}
+#contact
+{
+    border-color: brown;
+    
+}
+
+#mail
+{
+    border-color: brown;
+}
+#mainhead
+{
+    color:brown;
+    border-color:seashell;
+   
+}
+#dt
+{
+    border-color: brown; 
+}
+
+body
+{
+    background-image: url("https://www.tripsavvy.com/thmb/XhEcc9HkdoWf-JhT2XexGeVszj8=/1881x1411/smart/filters:no_upscale()/GettyImages-163175242-58f631e43df78ca159f2b798.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

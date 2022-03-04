@@ -1,0 +1,40 @@
+#fname
+{
+    border-color: brown;
+    
+}
+#lname
+{
+    border-color: brown;
+    
+}
+#contact
+{
+    border-color: brown;
+    
+}
+
+#mail
+{
+    border-color: brown;
+}
+
+#dt
+{
+    border-color: brown; 
+}
+#mainhead
+{
+    color:brown;
+    border-color:seashell;
+   
+}
+
+body
+{
+    background-image: url("https://imgcld.yatra.com/ytimages/image/upload/v1517480802/AdvNation/ANN_ACT45/ann_top_Bungee_Jumping_8wkReb.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

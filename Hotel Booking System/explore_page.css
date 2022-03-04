@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-image: url("https://thumbor.granitemedia.com/img/klCYroKGpo2IInkLhg8KtI0luyg=/800x0/filters:quality(80)/granite-web-prod/49/ee/49ee462939c44980ad577f9c96bff847.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#hname{
+    text-align: center;
+    background-color: cornsilk;
+}
+
+footer
+{
+    
+    background-color: cornsilk;
+}
+a
+{
+    background-color: cornsilk;  
+}
+
+P{
+    background-color: cornsilk; 
+}

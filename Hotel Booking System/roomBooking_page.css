@@ -1,0 +1,35 @@
+#fname
+{
+    border-color: brown;
+    
+}
+#lname
+{
+    border-color: brown;
+    
+}
+#contact
+{
+    border-color: brown;
+    
+}
+
+#mail
+{
+    border-color: brown;
+}
+#mainhead
+{
+    color:brown;
+    border-color: brown;
+   
+}
+
+body
+{
+    background-image: url("https://images.unsplash.com/photo-1454372182658-c712e4c5a1db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8&w=1000&q=80");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
